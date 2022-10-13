@@ -6,7 +6,7 @@ from decouple import config
 BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
 
 
-SECRET_KEY = config('SECRET_KEY')
+SECRET_KEY = 'po0172$69b@78ps4v^uhfxu6q--8ko7kpp7rbz420s_3w#sir%'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = config('DEBUG')
